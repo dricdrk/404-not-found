@@ -1,0 +1,11 @@
+.sec1{
+   width: 50%;
+   border: 0.1rem outset blue;
+}
+.sec2{
+    width:50%;
+    border: 0.1rem outset blue;
+}
+.sec{
+    display: block;
+}
